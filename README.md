@@ -1,2 +1,2 @@
 # Sistemas-de-Controle
-Análise de sistemas de controle modelados em Python realizado como forma de avaliação para a disciplina de Sistemas de Controle 2
+Implementação de Controladores para se alcançar o comportamento desejado para sistemas
